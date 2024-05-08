@@ -1,0 +1,139 @@
+{
+  "jobs": [
+    {
+      "position": "Frontend Developer",
+      "company": "IBM",
+      "location": "İzmir/Bayraklı",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "id": "96c452ae-88ce-431c-8a7d-144ed6adfc42",
+      "date": 1712643002478
+    },
+    {
+      "position": "Marketing Manager",
+      "company": "Microsoft",
+      "location": "Seattle",
+      "status": "Reddedildi",
+      "type": "Yarı Zamanlı",
+      "id": "d7c4d757-4957-488d-a7f2-f8db05aa2c46",
+      "date": 1318607013502
+    },
+    {
+      "id": "322a69fa-d536-407d-83cd-8e3bd30f76a3",
+      "position": "Frontend Developer",
+      "company": "Microsoft",
+      "location": "Menlo Park",
+      "status": "Mülakat",
+      "type": "Yarı Zamanlı",
+      "date": 1714680517533
+    },
+    {
+      "id": "804e9c3f-a508-498d-94d6-30058a550830",
+      "position": "Frontend Developer",
+      "company": "Microsoft",
+      "location": "İzmir/Bayraklı",
+      "status": "Reddedildi",
+      "type": "Yarı Zamanlı",
+      "date": 1714680984722
+    },
+    {
+      "id": "c94f967c-7a36-4792-9032-d72d1a72fa56",
+      "position": "Frontend Developer",
+      "company": "IBM",
+      "location": "Redmond",
+      "status": "Devam Ediyor",
+      "type": "Uzaktan",
+      "date": 1715091346989
+    },
+    {
+      "id": "2fef965f-add8-441c-9fdc-1f83c907eaf9",
+      "position": "Product Manager",
+      "company": "Udemig",
+      "location": "İzmir/Bayraklı",
+      "status": "Mülakat",
+      "type": "Yarı Zamanlı",
+      "date": 1715092905949
+    },
+    {
+      "id": "f48e64b6-9593-45c8-99fd-671b4359f018",
+      "position": "Frontend Developer",
+      "company": "IBM",
+      "location": "İzmir/Bayraklı",
+      "status": "Mülakat",
+      "type": "Yarı Zamanlı",
+      "date": 1715092972920
+    },
+    {
+      "id": "46c0ba36-df2f-4cdf-a7fc-85ac300a43fe",
+      "position": "Frontend Developer",
+      "company": "IBM",
+      "location": "Redmond",
+      "status": "Reddedildi",
+      "type": "Yarı Zamanlı",
+      "date": 1715100768794
+    },
+    {
+      "position": "Product Manager",
+      "company": "Udemig",
+      "location": "Seattle",
+      "status": "Mülakat",
+      "type": "Tam zamanlı",
+      "id": "18afb65b-6c77-4ea7-9f25-fdbcda4da535",
+      "date": 1715167158214
+    },
+    {
+      "position": "Product Manager",
+      "company": "Udemig",
+      "location": "Seattle",
+      "status": "Mülakat",
+      "type": "Yarı Zamanlı",
+      "id": "d0307a84-759f-40bd-bc67-5bd631055af1",
+      "date": 1715167917962
+    },
+    {
+      "position": "Frontend Developer",
+      "company": "IBM",
+      "location": "İzmir/Bayraklı",
+      "status": "Mülakat",
+      "type": "Tam zamanlı",
+      "id": "280daf05-de35-41d8-a726-3e4411d20449",
+      "date": 1715167959175
+    },
+    {
+      "position": "Frontend Developer",
+      "company": "IBM",
+      "location": "İzmir/Bayraklı",
+      "status": "Devam Ediyor",
+      "type": "Tam zamanlı",
+      "id": "5e12ea0c-7567-48ec-a7ce-3ebfb6b17c53",
+      "date": 1715167998870
+    },
+    {
+      "position": "Frontend Developer",
+      "company": "IBM",
+      "location": "İzmir/Bayraklı",
+      "status": "Mülakat",
+      "type": "Tam zamanlı",
+      "id": "2d597aa3-9a59-4f33-bcd0-5744aad8cbc9",
+      "date": 1715169180830
+    },
+    {
+      "position": "Frontend Developer",
+      "company": "IBM",
+      "location": "İzmir/Bayraklı",
+      "status": "Mülakat",
+      "type": "Tam zamanlı",
+      "id": "48e6bcbd-666a-4c58-961b-4a51b08bc3db",
+      "date": 1715169278383
+    },
+    {
+      "position": "Frontend Developer",
+      "company": "Microsoft",
+      "location": "Seattle",
+      "status": "Devam Ediyor",
+      "type": "Tam zamanlı",
+      "id": "93cbf0b2-9125-4e0e-8225-ce9e0ee0d302",
+      "date": 1715169362824
+    }
+  ]
+}
